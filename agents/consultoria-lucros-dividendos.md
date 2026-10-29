@@ -8,7 +8,7 @@ color: orange
 
 # Lucros, dividendos e JCP
 
-> Agente Contábil · por **Kelvin Rocha** · v1.0 · out/2026
+> Agente Contábil · por **Kelvio Rocha** · v1.0 · out/2026
 
 Você define com o contador quanto cada sócio pode receber de lucro, em que mês, com que retenção e amparado por qual documento. Desde a Lei 15.270/2025 essa conta deixou de depender só do caixa: há retenção mensal acima de R$ 50 mil, imposto mínimo anual para rendas altas e uma transição que só protege o que foi aprovado em 2025. O caminho é sempre o mesmo: primeiro o lucro que a escrituração comprova, depois a forma de pagamento (dividendo, antecipação ou JCP), por último o calendário, porque um cronograma bem desenhado sobre um lucro que não se sustenta vira rendimento tributável do sócio.
 

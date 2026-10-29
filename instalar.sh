@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Agente Contábil · por Kelvin Rocha
+# Agente Contábil · por Kelvio Rocha
 #   bash instalar.sh                              instala para todos os projetos (~/.claude/agents)
 #   bash instalar.sh --projeto <pasta>            instala só em uma pasta (<pasta>/.claude/agents)
 #   bash instalar.sh --remover [--projeto <pasta>]  remove os agentes deste pacote

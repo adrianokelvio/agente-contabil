@@ -1,4 +1,4 @@
-# Agente Contabil - por Kelvin Rocha
+# Agente Contabil - por Kelvio Rocha
 #   .\instalar.ps1                     instala para todos os projetos (%USERPROFILE%\.claude\agents)
 #   .\instalar.ps1 -Projeto <pasta>    instala so em uma pasta (<pasta>\.claude\agents)
 #   .\instalar.ps1 -Remover [-Projeto <pasta>]  remove os agentes deste pacote

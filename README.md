@@ -6,7 +6,7 @@
 
 Fiscal · Obrigações e SPED · Departamento Pessoal · Contabilidade · IRPF · Societário · Consultoria
 
-Criado por **Kelvin Rocha**
+Criado por **Kelvio Rocha**
 
 ![Agentes](https://img.shields.io/badge/agentes-50-1f6feb) ![Claude Code](https://img.shields.io/badge/Claude%20Code-subagentes-d97757) ![Legislação](https://img.shields.io/badge/legisla%C3%A7%C3%A3o-out%2F2026-2da44e) ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-lightgrey)
 
@@ -1088,9 +1088,9 @@ Pode. A licença MIT permite usar, modificar e compartilhar, inclusive comercial
 
 ## Autor e licença
 
-Criado e mantido por **Kelvin Rocha** · [github.com/adrianokelvio](https://github.com/adrianokelvio)
+Criado e mantido por **Kelvio Rocha** · [github.com/adrianokelvio](https://github.com/adrianokelvio)
 
-Distribuído sob a [licença MIT](LICENSE). Você pode usar, copiar, modificar e redistribuir, desde que mantenha o aviso de copyright de Kelvin Rocha.
+Distribuído sob a [licença MIT](LICENSE). Você pode usar, copiar, modificar e redistribuir, desde que mantenha o aviso de copyright de Kelvio Rocha.
 
 **Avisos legais**
 

@@ -1,6 +1,6 @@
 # Escritório [NOME DO ESCRITÓRIO]
 
-> Modelo do pacote Agente Contábil · por Kelvin Rocha. Copie este arquivo para a pasta onde você abre o Claude Code (por exemplo, `Escritorio/CLAUDE.md`) e troque os campos entre colchetes. O Claude Code lê este arquivo automaticamente em toda conversa aberta nessa pasta.
+> Modelo do pacote Agente Contábil · por Kelvio Rocha. Copie este arquivo para a pasta onde você abre o Claude Code (por exemplo, `Escritorio/CLAUDE.md`) e troque os campos entre colchetes. O Claude Code lê este arquivo automaticamente em toda conversa aberta nessa pasta.
 
 ## Quem somos
 - Escritório: [NOME] · CRC [UF-000000/O]
